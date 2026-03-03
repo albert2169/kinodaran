@@ -13,6 +13,7 @@ dependencies:
 
   cupertino_icons: ^1.0.8
   carousel_slider: ^5.1.2
+  video_player: ^2.11.0
 
 dev_dependencies:
   flutter_test:
@@ -29,3 +30,6 @@ flutter:
     - assets/images/kinodaran_original/
     - assets/images/foreign_films/
     - assets/images/romantic_comedy/
+    - assets/images/serias_images/
+    - assets/images/artists/
+    - assets/videos/
